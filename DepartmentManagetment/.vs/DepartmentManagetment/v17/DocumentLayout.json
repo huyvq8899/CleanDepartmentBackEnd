@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|e:\\f88 project\\learn\\depatment\\departmentmanagetment\\departmentmanagetment\\src\\web\\endpoints\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|solutionrelative:departmentmanagetment\\src\\web\\endpoints\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|e:\\f88 project\\learn\\depatment\\departmentmanagetment\\departmentmanagetment\\src\\web\\endpoints\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|solutionrelative:departmentmanagetment\\src\\web\\endpoints\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\departmentmanagetment\\departmentmanagetment\\src\\application\\users\\queries\\getuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\users\\queries\\getuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0E21E-2506-4B72-97F2-40B821088C5E}|DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj|e:\\f88 project\\learn\\depatment\\departmentmanagetment\\departmentmanagetment\\src\\infrastructure\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0E21E-2506-4B72-97F2-40B821088C5E}|DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj|solutionrelative:departmentmanagetment\\src\\infrastructure\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0E21E-2506-4B72-97F2-40B821088C5E}|DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj|e:\\f88 project\\learn\\depatment\\departmentmanagetment\\departmentmanagetment\\src\\infrastructure\\data\\applicationdbcontextinitialiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0E21E-2506-4B72-97F2-40B821088C5E}|DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj|solutionrelative:departmentmanagetment\\src\\infrastructure\\data\\applicationdbcontextinitialiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Migrations\\20240806100751_Add-Department-Users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DepartmentManagetment\\src\\Infrastructure\\Migrations\\20240806100751_Add-Department-Users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0E21E-2506-4B72-97F2-40B821088C5E}|DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj|e:\\f88 project\\learn\\depatment\\departmentmanagetment\\departmentmanagetment\\src\\infrastructure\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0E21E-2506-4B72-97F2-40B821088C5E}|DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj|solutionrelative:departmentmanagetment\\src\\infrastructure\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0E21E-2506-4B72-97F2-40B821088C5E}|DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj|e:\\f88 project\\learn\\depatment\\departmentmanagetment\\departmentmanagetment\\src\\infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0E21E-2506-4B72-97F2-40B821088C5E}|DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj|solutionrelative:departmentmanagetment\\src\\infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|e:\\f88 project\\learn\\depatment\\departmentmanagetment\\departmentmanagetment\\src\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|solutionrelative:departmentmanagetment\\src\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0E21E-2506-4B72-97F2-40B821088C5E}|DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj|e:\\f88 project\\learn\\depatment\\departmentmanagetment\\departmentmanagetment\\src\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1B0E21E-2506-4B72-97F2-40B821088C5E}|DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj|solutionrelative:departmentmanagetment\\src\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Departments.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Endpoints\\Departments.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Web\\Endpoints\\Departments.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Endpoints\\Departments.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Web\\Endpoints\\Departments.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:16:26.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Endpoints\\Users.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Web\\Endpoints\\Users.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Endpoints\\Users.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Web\\Endpoints\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:16:04.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetUserList.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUserList.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUserList.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUserList.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUserList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:12:47.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240806100751_Add-Department-Users.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Migrations\\20240806100751_Add-Department-Users.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Migrations\\20240806100751_Add-Department-Users.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Migrations\\20240806100751_Add-Department-Users.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Infrastructure\\Migrations\\20240806100751_Add-Department-Users.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:07:51.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextInitialiser.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Data\\ApplicationDbContextInitialiser.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Data\\ApplicationDbContextInitialiser.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Data\\ApplicationDbContextInitialiser.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Infrastructure\\Data\\ApplicationDbContextInitialiser.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAYwGIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:02:45.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Identity\\IdentityService.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Identity\\IdentityService.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Identity\\IdentityService.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Infrastructure\\Identity\\IdentityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:02:57.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Identity\\ApplicationUser.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Infrastructure\\Identity\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:02:30.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T09:53:59.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AQIAAFYAAAAAAAAAAIAwwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-06T09:50:22.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAPcAAAAAAAAAAIAwwAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-06T09:49:55.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T09:49:23.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.csproj",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Web.csproj",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Web\\Web.csproj",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Web.csproj",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Web\\Web.csproj",
+              "ViewState": "AQIAABgAAAAAAAAAAIAwwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T09:44:35.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
