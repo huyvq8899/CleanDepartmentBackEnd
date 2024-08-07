@@ -14,4 +14,6 @@ public interface IIdentityService
     Task<Result> DeleteUserAsync(string userId);
 
     Task<List<UserVM>>GetUserVMs();
+
+    Task UpdateUserAsync(UserVM userVM);
 }

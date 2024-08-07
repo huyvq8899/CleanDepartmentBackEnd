@@ -9,5 +9,6 @@ public class Department : BaseAuditableEntity
     /// Mô tả thông tin phòng ban
     /// </summary>
     public string Description { get; set; } = string.Empty;
+
     public ICollection<Employee> Employees { get; set; } = new List<Employee>();
 }

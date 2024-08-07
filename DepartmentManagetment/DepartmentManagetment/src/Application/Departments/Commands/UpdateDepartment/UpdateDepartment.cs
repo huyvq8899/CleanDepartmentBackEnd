@@ -29,10 +29,7 @@ public class UpdateDepartmentCommandHandler : IRequestHandler<UpdateDepartmentCo
         var department = await _context.Departments
             .FindAsync(new object[] { request.Id }, cancellationToken);
 
-        if (department == null)
-        {
-            throw new NotFoundException(nameof(Department), request.Id.ToString());
-        }
+        Guard.Against.NotFound(request.Id, department);
 
         department.Name = request.Name;
         department.Description = request.Description;

@@ -1,5 +1,7 @@
+using Azure.Core;
 using DepartmentManagement.Application.Common.Interfaces;
 using DepartmentManagement.Application.Common.Models;
+using DepartmentManagement.Domain.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -80,6 +82,45 @@ public class IdentityService : IIdentityService
 
     public async Task<List<UserVM>> GetUserVMs()
     {
-        return await _userManager.Users.Select(x => new UserVM { Name = x.UserName } ).ToListAsync();
+        return await _userManager.Users.Select(x =>
+        new UserVM { 
+            Id = x.Id,  
+            UserName = x.UserName, 
+            DepartmentId = x.DepartmentId,
+            PhoneNumber = x.PhoneNumber,
+            FullName = x.FullName,
+            Address = x.Adresss
+
+        }).ToListAsync();
     }
+
+    public async Task UpdateUserAsync(UserVM userVM)
+    {
+        var user = await _userManager.FindByIdAsync(userVM.Id);
+        if (user != null)
+        {
+            user.FullName = userVM.FullName ?? string.Empty;
+            user.Adresss = userVM.Address ?? string.Empty;
+            user.PhoneNumber = userVM.PhoneNumber;
+            user.DepartmentId = userVM.DepartmentId;
+            // Update other properties as needed
+
+            // Save changes
+            var result = await _userManager.UpdateAsync(user);
+            if (!result.Succeeded)
+            {
+                throw new Exception(string.Join(", ", result.Errors.Select(e => e.Description)));
+            }
+        }
+        else
+        {
+            Guard.Against.NotFound(userVM.Id, userVM);
+
+        }
+        // Update user properties
+
+    }
+
+
+
 }
