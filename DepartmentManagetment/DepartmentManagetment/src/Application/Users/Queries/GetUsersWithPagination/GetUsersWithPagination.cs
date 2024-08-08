@@ -1,7 +1,7 @@
 ﻿using DepartmentManagement.Application.Common.Interfaces;
 using DepartmentManagement.Application.Common.Models;
 
-namespace DepartmentManagetment.Application.Users.Queries;
+namespace DepartmentManagetment.Application.Users.Queries.GetUsersWithPagination;
 public record GetUsersWithPaginationQuery : IRequest<PaginatedList<UserVM>>
 {
     public int PageNumber { get; init; } = 1;

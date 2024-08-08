@@ -4,7 +4,8 @@ using DepartmentManagement.Application.Departments.Queries.GetDepartmentList;
 using DepartmentManagement.Application.Users.Queries;
 using DepartmentManagement.Infrastructure.Identity;
 using DepartmentManagetment.Application.Users.Commands;
-using DepartmentManagetment.Application.Users.Queries;
+using DepartmentManagetment.Application.Users.Queries.CheckEmailUserDuplicate;
+using DepartmentManagetment.Application.Users.Queries.GetUsersWithPagination;
 
 namespace DepartmentManagement.Web.Endpoints;
 public class Users : EndpointGroupBase
@@ -14,6 +15,7 @@ public class Users : EndpointGroupBase
         app.MapGroup(this)
             .MapGet(GetUserVMs).MapPut(UpdateUser, "/{id}")
                .MapGet(GetUsersWithPagination, "GetUsersWithPagination")
+               .MapGet(CheckEmailUserDuplicate, "CheckEmailUserDuplicate")
             .MapIdentityApi<ApplicationUser>();
     }
 
@@ -47,6 +49,12 @@ public class Users : EndpointGroupBase
     /// <param name="query"></param>
     /// <returns></returns>
     public Task<PaginatedList<UserVM>> GetUsersWithPagination(ISender sender, [AsParameters] GetUsersWithPaginationQuery query)
+    {
+        return sender.Send(query);
+    }
+
+
+    public Task<bool> CheckEmailUserDuplicate(ISender sender, [AsParameters] CheckEmailUserDuplicateQuery query)
     {
         return sender.Send(query);
     }

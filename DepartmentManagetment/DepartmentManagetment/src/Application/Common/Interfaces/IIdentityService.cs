@@ -1,6 +1,7 @@
 ﻿using DepartmentManagement.Application.Common.Models;
 using DepartmentManagement.Application.Departments.Queries.GetDepartmentWithPagination;
-using DepartmentManagetment.Application.Users.Queries;
+using DepartmentManagetment.Application.Users.Queries.CheckEmailUserDuplicate;
+using DepartmentManagetment.Application.Users.Queries.GetUsersWithPagination;
 
 namespace DepartmentManagement.Application.Common.Interfaces;
 public interface IIdentityService
@@ -20,5 +21,7 @@ public interface IIdentityService
     Task UpdateUserAsync(UserVM userVM);
 
     Task<PaginatedList<UserVM>> GetPaginatedListUser(GetUsersWithPaginationQuery query);
+
+    Task<bool> CheckEmailUserDuplicate(CheckEmailUserDuplicateQuery query);
 
 }

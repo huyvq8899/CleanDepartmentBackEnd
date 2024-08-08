@@ -2,7 +2,8 @@ using Azure.Core;
 using DepartmentManagement.Application.Common.Interfaces;
 using DepartmentManagement.Application.Common.Models;
 using DepartmentManagement.Domain.Entities;
-using DepartmentManagetment.Application.Users.Queries;
+using DepartmentManagetment.Application.Users.Queries.CheckEmailUserDuplicate;
+using DepartmentManagetment.Application.Users.Queries.GetUsersWithPagination;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -143,6 +144,8 @@ public class IdentityService : IIdentityService
         return paginatedUsers;
     }
 
-
-
+    public async Task<bool> CheckEmailUserDuplicate(CheckEmailUserDuplicateQuery query)
+    {
+        return await _userManager.Users.AnyAsync(x => x.UserName == query.Email);
+    }
 }

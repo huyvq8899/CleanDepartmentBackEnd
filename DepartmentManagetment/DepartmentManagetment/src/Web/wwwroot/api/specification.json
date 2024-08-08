@@ -661,6 +661,38 @@
         }
       }
     },
+    "/api/Users/CheckEmailUserDuplicate": {
+      "get": {
+        "tags": [
+          "Users"
+        ],
+        "operationId": "CheckEmailUserDuplicate",
+        "parameters": [
+          {
+            "name": "Email",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "nullable": true
+            },
+            "x-position": 1
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "boolean"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/Users/register": {
       "post": {
         "tags": [
