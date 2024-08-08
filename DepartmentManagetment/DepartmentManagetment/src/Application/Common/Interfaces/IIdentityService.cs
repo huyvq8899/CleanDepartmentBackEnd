@@ -1,4 +1,6 @@
 ﻿using DepartmentManagement.Application.Common.Models;
+using DepartmentManagement.Application.Departments.Queries.GetDepartmentWithPagination;
+using DepartmentManagetment.Application.Users.Queries;
 
 namespace DepartmentManagement.Application.Common.Interfaces;
 public interface IIdentityService
@@ -16,4 +18,7 @@ public interface IIdentityService
     Task<List<UserVM>>GetUserVMs();
 
     Task UpdateUserAsync(UserVM userVM);
+
+    Task<PaginatedList<UserVM>> GetPaginatedListUser(GetUsersWithPaginationQuery query);
+
 }

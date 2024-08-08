@@ -2,6 +2,7 @@ using Azure.Core;
 using DepartmentManagement.Application.Common.Interfaces;
 using DepartmentManagement.Application.Common.Models;
 using DepartmentManagement.Domain.Entities;
+using DepartmentManagetment.Application.Users.Queries;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -119,6 +120,27 @@ public class IdentityService : IIdentityService
         }
         // Update user properties
 
+    }
+
+    public async Task<PaginatedList<UserVM>> GetPaginatedListUser(GetUsersWithPaginationQuery query)
+    {
+        // Retrieve the users and map to UserVM
+        var usersQuery = _userManager.Users
+            .Select(x => new UserVM
+            {
+                Id = x.Id,
+                UserName = x.UserName,
+                FullName = x.FullName,
+                Email = x.Email,
+                PhoneNumber = x.PhoneNumber,
+                Address = x.Adresss,
+                DepartmentId = x.DepartmentId
+            });
+
+        // Create paginated list
+        var paginatedUsers = await PaginatedList<UserVM>.CreateAsync(usersQuery, query.PageNumber, query.PageSize);
+
+        return paginatedUsers;
     }
 
 
