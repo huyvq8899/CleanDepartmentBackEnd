@@ -7,6 +7,7 @@ namespace DepartmentManagement.Application.Departments.Commands.CreateDepartment
 
 public record CreateDepartmentCommamd : IRequest<Guid>
 {
+    public string Code { get; init; } = string.Empty;
     public string Name { get; init; } = string.Empty;
     public string Description { get; init; } = string.Empty;
 }
@@ -25,6 +26,7 @@ public class CreateDepartmentCommandHandler : IRequestHandler<CreateDepartmentCo
         {
             Name = request.Name,
             Description = request.Description,
+
         };
 
         await _context.Departments.AddAsync(department);
