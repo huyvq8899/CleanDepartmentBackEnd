@@ -1,16 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using DepartmentManagement.Application.Common.Interfaces;
-using DepartmentManagement.Domain.Entities;
+﻿using DepartmentManagement.Application.Common.Interfaces;
 
 namespace DepartmentManagement.Application.Departments.Commands.UpdateDepartment;
 
 public record UpdateDepartmentCommand : IRequest
 {
     public Guid Id { get; init; }
+    public string Code { get; init; } = string.Empty;
     public string Name { get; init; } = string.Empty;
     public string Description { get; init; } = string.Empty;
 }
@@ -31,6 +26,7 @@ public class UpdateDepartmentCommandHandler : IRequestHandler<UpdateDepartmentCo
 
         Guard.Against.NotFound(request.Id, department);
 
+        department.Code = request.Code;
         department.Name = request.Name;
         department.Description = request.Description;
 

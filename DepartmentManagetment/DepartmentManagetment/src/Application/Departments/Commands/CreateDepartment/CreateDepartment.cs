@@ -26,13 +26,13 @@ public class CreateDepartmentCommandHandler : IRequestHandler<CreateDepartmentCo
         {
             Name = request.Name,
             Description = request.Description,
-
+            Code = request.Code,
         };
 
         await _context.Departments.AddAsync(department);
 
         await _context.SaveChangesAsync(cancellationToken);
-
+            
         return department.Id;
 
     }

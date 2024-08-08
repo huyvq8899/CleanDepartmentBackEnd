@@ -4,6 +4,7 @@ using DepartmentManagement.Application.Departments.Commands.DeleteDepartment;
 using DepartmentManagement.Application.Departments.Commands.UpdateDepartment;
 using DepartmentManagement.Application.Departments.Queries.GetDepartmentList;
 using DepartmentManagement.Application.Departments.Queries.GetDepartmentWithPagination;
+using DepartmentManagetment.Application.Departments.Queries.CheckDuplicateCodeDepartment;
 namespace DepartmentManagement.Web.Endpoints;
 
 
@@ -14,6 +15,7 @@ public class Departments : EndpointGroupBase
         app.MapGroup(this).RequireAuthorization()
             .MapGet(GetDepartmentWithPagination, "GetDepartmentWithPagination")
             .MapGet(GetDepartmentList)
+            .MapGet(CheckCodeDuplicateDepartment, "CheckCodeDuplicateDepartment")
             .MapPost(CreateDepartment)
             .MapPut(UpdateDepartment, "/{id}")
             .MapDelete(DeleteDepartment, "/{id}");
@@ -75,4 +77,14 @@ public class Departments : EndpointGroupBase
         return sender.Send(new DeleteDepartmentCommand(id));
     }
 
+    /// <summary>
+    ///  Hàm check trùng mã 
+    /// </summary>
+    /// <param name="sender"></param>
+    /// <param name="query"></param>
+    /// <returns></returns>
+    public Task<bool> CheckCodeDuplicateDepartment(ISender sender, [AsParameters]  CheckDuplicateCodeDepartmentQuery query)
+    {
+        return sender.Send(query);
+    }
 }

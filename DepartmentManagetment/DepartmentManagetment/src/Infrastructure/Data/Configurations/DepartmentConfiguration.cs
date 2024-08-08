@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using DepartmentManagement.Domain.Entities;
+﻿using DepartmentManagement.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
@@ -14,9 +9,11 @@ public class DepartmentConfiguration : IEntityTypeConfiguration<Department>
     {
         builder.HasKey(x => x.Id);
 
+        builder.Property(x => x.Code).IsRequired().HasMaxLength(50);
+
         builder.Property(x => x.Name).IsRequired().HasMaxLength(250);
 
-        builder.Property(x => x.Description).HasMaxLength(200);
+        builder.Property(x => x.Description).HasMaxLength(250);
 
     }
 }

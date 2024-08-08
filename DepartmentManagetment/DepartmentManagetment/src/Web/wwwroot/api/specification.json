@@ -117,6 +117,43 @@
         ]
       }
     },
+    "/api/Departments/CheckCodeDuplicateDepartment": {
+      "get": {
+        "tags": [
+          "Departments"
+        ],
+        "operationId": "CheckCodeDuplicateDepartment",
+        "parameters": [
+          {
+            "name": "Code",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "nullable": true
+            },
+            "x-position": 1
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "boolean"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "JWT": []
+          }
+        ]
+      }
+    },
     "/api/Departments/{id}": {
       "put": {
         "tags": [
@@ -1035,6 +1072,9 @@
             "type": "string",
             "format": "guid"
           },
+          "code": {
+            "type": "string"
+          },
           "name": {
             "type": "string"
           },
@@ -1050,6 +1090,9 @@
           "id": {
             "type": "string",
             "format": "guid"
+          },
+          "code": {
+            "type": "string"
           },
           "name": {
             "type": "string"
@@ -1068,6 +1111,9 @@
         "type": "object",
         "additionalProperties": false,
         "properties": {
+          "code": {
+            "type": "string"
+          },
           "name": {
             "type": "string"
           },
@@ -1083,6 +1129,9 @@
           "id": {
             "type": "string",
             "format": "guid"
+          },
+          "code": {
+            "type": "string"
           },
           "name": {
             "type": "string"

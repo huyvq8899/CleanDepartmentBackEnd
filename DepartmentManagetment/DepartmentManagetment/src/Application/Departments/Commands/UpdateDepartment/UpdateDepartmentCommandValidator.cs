@@ -9,7 +9,9 @@ public class UpdateDepartmentCommandValidator : AbstractValidator<UpdateDepartme
 {
     public UpdateDepartmentCommandValidator()
     {
-        RuleFor(d => d.Name).MaximumLength(200);
+        RuleFor(d => d.Code).MaximumLength(50);
+
+        RuleFor(d => d.Name).MaximumLength(250);
 
         RuleFor(d => d.Description).MaximumLength(250);
     }
