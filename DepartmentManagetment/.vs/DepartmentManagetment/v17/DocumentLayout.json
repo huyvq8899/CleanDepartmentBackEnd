@@ -7,40 +7,64 @@
       "RelativeMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|solutionrelative:departmentmanagetment\\src\\web\\endpoints\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\web\\endpoints\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|solutionrelative:departmentmanagetment\\src\\web\\endpoints\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\web\\endpoints\\todoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|solutionrelative:departmentmanagetment\\src\\web\\endpoints\\todoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|solutionrelative:departmentmanagetment\\src\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\application\\users\\commands\\deleteuser.cs\\deleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\users\\commands\\deleteuser.cs\\deleteuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1B0E21E-2506-4B72-97F2-40B821088C5E}|DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\infrastructure\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1B0E21E-2506-4B72-97F2-40B821088C5E}|DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj|solutionrelative:departmentmanagetment\\src\\infrastructure\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\application\\departments\\queries\\getdepartmentwithpagination\\getdepartmentwithpagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\departments\\queries\\getdepartmentwithpagination\\getdepartmentwithpagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\application\\users\\queries\\getuserwithpaginationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\users\\queries\\getuserwithpaginationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\application\\departments\\commands\\deletedepartment\\deletedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\departments\\commands\\deletedepartment\\deletedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\application\\common\\interfaces\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\common\\interfaces\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\application\\users\\queries\\getuserswithpagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\users\\queries\\getuserswithpagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\application\\departments\\commands\\createdepartment\\createdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\departments\\commands\\createdepartment\\createdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\application\\users\\commands\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\users\\commands\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\application\\users\\commands\\createuser.cs\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\users\\commands\\createuser.cs\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\application\\users\\commands\\createuser.cs\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\users\\commands\\createuser.cs\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\application\\users\\commands\\updateuser\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\users\\commands\\updateuser\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B0E21E-2506-4B72-97F2-40B821088C5E}|DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\infrastructure\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B0E21E-2506-4B72-97F2-40B821088C5E}|DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj|solutionrelative:departmentmanagetment\\src\\infrastructure\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\application\\common\\models\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\common\\models\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\web\\endpoints\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|solutionrelative:departmentmanagetment\\src\\web\\endpoints\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|solutionrelative:departmentmanagetment\\src\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|solutionrelative:departmentmanagetment\\src\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|solutionrelative:departmentmanagetment\\src\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\application\\departments\\queries\\getdepartmentwithpagination\\getdepartmentwithpagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\departments\\queries\\getdepartmentwithpagination\\getdepartmentwithpagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\application\\users\\queries\\getuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\departments\\queries\\getdepartmentlist\\getdepartmentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\application\\departments\\commands\\createdepartment\\createdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\departments\\commands\\createdepartment\\createdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Migrations\\20240808081408_AddDepartmentCodeCloumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DepartmentManagetment\\src\\Infrastructure\\Migrations\\20240808081408_AddDepartmentCodeCloumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -109,14 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\application\\common\\security\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA69F50-9853-42A1-A324-FB2788E2FD06}|DepartmentManagetment\\src\\Application\\Application.csproj|solutionrelative:departmentmanagetment\\src\\application\\common\\security\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|solutionrelative:departmentmanagetment\\src\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|solutionrelative:departmentmanagetment\\src\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39C1EE64-E2C8-46E6-A98A-5957D31156A8}|DepartmentManagetment\\src\\Web\\Web.csproj|e:\\f88 project\\learn\\depatment\\cleandepartmentbackend\\departmentmanagetment\\departmentmanagetment\\src\\web\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -176,50 +188,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetUserWithPaginationValidator.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUserWithPaginationValidator.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUserWithPaginationValidator.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUserWithPaginationValidator.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUserWithPaginationValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "TodoItems.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Endpoints\\TodoItems.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Web\\Endpoints\\TodoItems.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Endpoints\\TodoItems.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Web\\Endpoints\\TodoItems.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA9wBIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T10:00:06.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetUsersWithPagination.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUsersWithPagination.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUsersWithPagination.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUsersWithPagination.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUsersWithPagination.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:59:26.321Z",
+              "WhenOpened": "2024-08-09T04:39:13.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IdentityService.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Identity\\IdentityService.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Identity\\IdentityService.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Identity\\IdentityService.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Infrastructure\\Identity\\IdentityService.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAqwIIAAAAaAAAA",
+              "Title": "DeleteDepartment.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Commands\\DeleteDepartment\\DeleteDepartment.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Commands\\DeleteDepartment\\DeleteDepartment.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Commands\\DeleteDepartment\\DeleteDepartment.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Commands\\DeleteDepartment\\DeleteDepartment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:02:57.974Z",
+              "WhenOpened": "2024-08-09T04:18:31.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "DeleteUser.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Commands\\DeleteUser.cs\\DeleteUser.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Users\\Commands\\DeleteUser.cs\\DeleteUser.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Commands\\DeleteUser.cs\\DeleteUser.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Users\\Commands\\DeleteUser.cs\\DeleteUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:13:18.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserValidator.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Commands\\CreateUser.cs\\CreateUserValidator.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Users\\Commands\\CreateUser.cs\\CreateUserValidator.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Commands\\CreateUser.cs\\CreateUserValidator.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Users\\Commands\\CreateUser.cs\\CreateUserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:10:22.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Web\\appsettings.json",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\appsettings.json",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T08:25:59.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Web\\Program.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Program.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Web\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAEwD4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T04:38:01.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "GetDepartmentWithPagination.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\GetDepartmentWithPagination.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\GetDepartmentWithPagination.cs",
@@ -232,228 +283,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IIdentityService.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Common\\Interfaces\\IIdentityService.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Common\\Interfaces\\IIdentityService.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Common\\Interfaces\\IIdentityService.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Common\\Interfaces\\IIdentityService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAtwBEAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:42:36.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UpdateUser.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Commands\\UpdateUser.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Users\\Commands\\UpdateUser.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Commands\\UpdateUser.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Users\\Commands\\UpdateUser.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAkwCIAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:47:33.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Users.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Endpoints\\Users.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Web\\Endpoints\\Users.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Endpoints\\Users.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Web\\Endpoints\\Users.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowDYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:16:04.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Departments.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Endpoints\\Departments.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Web\\Endpoints\\Departments.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Endpoints\\Departments.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Web\\Endpoints\\Departments.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAABoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:16:26.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Web.csproj",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Web.csproj",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Web\\Web.csproj",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Web.csproj",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Web\\Web.csproj",
-              "ViewState": "AQIAABcAAAAAAAAAAAAUwC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-06T09:44:35.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UserVM.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Common\\Models\\UserVM.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Common\\Models\\UserVM.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Common\\Models\\UserVM.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Common\\Models\\UserVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAaAAAA",
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Identity\\IdentityService.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Identity\\IdentityService.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Identity\\IdentityService.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Infrastructure\\Identity\\IdentityService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAhwCIAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T01:44:30.73Z",
+              "WhenOpened": "2024-08-06T10:02:57.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetUserList.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUserList.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUserList.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUserList.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUserList.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBQAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:12:47.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GetDepartmentWithPaginationValidator.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\GetDepartmentWithPaginationValidator.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\GetDepartmentWithPaginationValidator.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\GetDepartmentWithPaginationValidator.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\GetDepartmentWithPaginationValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:08:09.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DepartmentDto.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\DepartmentDto.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\DepartmentDto.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\DepartmentDto.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\DepartmentDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:07:21.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "GetDepartmentList.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentList\\GetDepartmentList.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentList\\GetDepartmentList.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentList\\GetDepartmentList.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentList\\GetDepartmentList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:07:14.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "UpdateDepartment.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Commands\\UpdateDepartment\\UpdateDepartment.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Commands\\UpdateDepartment\\UpdateDepartment.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Commands\\UpdateDepartment\\UpdateDepartment.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Commands\\UpdateDepartment\\UpdateDepartment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:05:30.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CreateDepartmentValidator.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Commands\\CreateDepartment\\CreateDepartmentValidator.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Commands\\CreateDepartment\\CreateDepartmentValidator.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Commands\\CreateDepartment\\CreateDepartmentValidator.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Commands\\CreateDepartment\\CreateDepartmentValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:11:34.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UpdateDepartmentCommandValidator.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Commands\\UpdateDepartment\\UpdateDepartmentCommandValidator.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Commands\\UpdateDepartment\\UpdateDepartmentCommandValidator.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Commands\\UpdateDepartment\\UpdateDepartmentCommandValidator.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Commands\\UpdateDepartment\\UpdateDepartmentCommandValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:12:21.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CheckDuplicateCodeDepartment.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\CheckDuplicateCodeDepartment\\CheckDuplicateCodeDepartment.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\CheckDuplicateCodeDepartment\\CheckDuplicateCodeDepartment.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\CheckDuplicateCodeDepartment\\CheckDuplicateCodeDepartment.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\CheckDuplicateCodeDepartment\\CheckDuplicateCodeDepartment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:41:56.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CheckDuplicateCodeDepartmentValidator.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\CheckDuplicateCodeDepartment\\CheckDuplicateCodeDepartmentValidator.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\CheckDuplicateCodeDepartment\\CheckDuplicateCodeDepartmentValidator.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\CheckDuplicateCodeDepartment\\CheckDuplicateCodeDepartmentValidator.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\CheckDuplicateCodeDepartment\\CheckDuplicateCodeDepartmentValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:43:28.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "DepartmentConfiguration.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Data\\Configurations\\DepartmentConfiguration.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Data\\Configurations\\DepartmentConfiguration.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Data\\Configurations\\DepartmentConfiguration.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Infrastructure\\Data\\Configurations\\DepartmentConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T03:43:54.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DepartmentVM.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentList\\DepartmentVM.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentList\\DepartmentVM.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentList\\DepartmentVM.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentList\\DepartmentVM.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA4AAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T08:06:53.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 5,
               "Title": "CreateDepartment.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Commands\\CreateDepartment\\CreateDepartment.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Commands\\CreateDepartment\\CreateDepartment.cs",
@@ -466,7 +309,241 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Endpoints\\Users.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Web\\Endpoints\\Users.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Endpoints\\Users.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Web\\Endpoints\\Users.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwEgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:16:04.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IIdentityService.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Common\\Interfaces\\IIdentityService.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Common\\Interfaces\\IIdentityService.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Common\\Interfaces\\IIdentityService.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Common\\Interfaces\\IIdentityService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAawBAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:42:36.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetDepartmentWithPaginationValidator.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\GetDepartmentWithPaginationValidator.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\GetDepartmentWithPaginationValidator.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\GetDepartmentWithPaginationValidator.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\GetDepartmentWithPaginationValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:08:09.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetUserList.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUserList.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUserList.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUserList.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Users\\Queries\\GetUserList.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:12:47.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateUser.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Commands\\UpdateUser\\UpdateUser.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Users\\Commands\\UpdateUser\\UpdateUser.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Commands\\UpdateUser\\UpdateUser.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Users\\Commands\\UpdateUser\\UpdateUser.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA7wB0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:47:33.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUser.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Commands\\CreateUser.cs\\CreateUser.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Users\\Commands\\CreateUser.cs\\CreateUser.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Users\\Commands\\CreateUser.cs\\CreateUser.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Users\\Commands\\CreateUser.cs\\CreateUser.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:42:29.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserVM.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Common\\Models\\UserVM.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Common\\Models\\UserVM.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Common\\Models\\UserVM.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Common\\Models\\UserVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T01:44:30.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.csproj",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Web.csproj",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Web\\Web.csproj",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Web.csproj",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Web\\Web.csproj",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T09:44:35.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Departments.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Endpoints\\Departments.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Web\\Endpoints\\Departments.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Endpoints\\Departments.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Web\\Endpoints\\Departments.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T10:16:26.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\DepartmentDto.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\DepartmentDto.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentWithPagination\\DepartmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:07:21.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetDepartmentList.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentList\\GetDepartmentList.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentList\\GetDepartmentList.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentList\\GetDepartmentList.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentList\\GetDepartmentList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:07:14.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateDepartment.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Commands\\UpdateDepartment\\UpdateDepartment.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Commands\\UpdateDepartment\\UpdateDepartment.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Commands\\UpdateDepartment\\UpdateDepartment.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Commands\\UpdateDepartment\\UpdateDepartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:05:30.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "CreateDepartmentValidator.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Commands\\CreateDepartment\\CreateDepartmentValidator.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Commands\\CreateDepartment\\CreateDepartmentValidator.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Commands\\CreateDepartment\\CreateDepartmentValidator.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Commands\\CreateDepartment\\CreateDepartmentValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:11:34.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateDepartmentCommandValidator.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Commands\\UpdateDepartment\\UpdateDepartmentCommandValidator.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Commands\\UpdateDepartment\\UpdateDepartmentCommandValidator.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Commands\\UpdateDepartment\\UpdateDepartmentCommandValidator.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Commands\\UpdateDepartment\\UpdateDepartmentCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:12:21.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CheckDuplicateCodeDepartment.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\CheckDuplicateCodeDepartment\\CheckDuplicateCodeDepartment.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\CheckDuplicateCodeDepartment\\CheckDuplicateCodeDepartment.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\CheckDuplicateCodeDepartment\\CheckDuplicateCodeDepartment.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\CheckDuplicateCodeDepartment\\CheckDuplicateCodeDepartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:41:56.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CheckDuplicateCodeDepartmentValidator.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\CheckDuplicateCodeDepartment\\CheckDuplicateCodeDepartmentValidator.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\CheckDuplicateCodeDepartment\\CheckDuplicateCodeDepartmentValidator.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\CheckDuplicateCodeDepartment\\CheckDuplicateCodeDepartmentValidator.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\CheckDuplicateCodeDepartment\\CheckDuplicateCodeDepartmentValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:43:28.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Data\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Data\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Data\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Infrastructure\\Data\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:43:54.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DepartmentVM.cs",
+              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentList\\DepartmentVM.cs",
+              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentList\\DepartmentVM.cs",
+              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentList\\DepartmentVM.cs",
+              "RelativeToolTip": "DepartmentManagetment\\src\\Application\\Departments\\Queries\\GetDepartmentList\\DepartmentVM.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:06:53.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "20240808081408_AddDepartmentCodeCloumn.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Migrations\\20240808081408_AddDepartmentCodeCloumn.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Migrations\\20240808081408_AddDepartmentCodeCloumn.cs",
@@ -479,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Department.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Domain\\Entities\\Department.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Domain\\Entities\\Department.cs",
@@ -492,20 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\appsettings.json",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Web\\appsettings.json",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\appsettings.json",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-07T08:25:59.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Web\\DependencyInjection.cs",
@@ -518,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Identity\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Identity\\ApplicationUser.cs",
@@ -531,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "JwtSettings.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Common\\Models\\JwtSettings.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Common\\Models\\JwtSettings.cs",
@@ -544,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "AuthorizationBehaviour.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Common\\Behaviours\\AuthorizationBehaviour.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Common\\Behaviours\\AuthorizationBehaviour.cs",
@@ -557,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "AuthorizeAttribute.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\Common\\Security\\AuthorizeAttribute.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\Common\\Security\\AuthorizeAttribute.cs",
@@ -570,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
@@ -583,20 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Program.cs",
-              "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Web\\Program.cs",
-              "ToolTip": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Web\\Program.cs",
-              "RelativeToolTip": "DepartmentManagetment\\src\\Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T04:38:01.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "20240807034231_Add-Name-Address-For-User.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Migrations\\20240807034231_Add-Name-Address-For-User.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Migrations\\20240807034231_Add-Name-Address-For-User.cs",
@@ -609,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "20240807034732_ConfigLenghtNameNameUser.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Migrations\\20240807034732_ConfigLenghtNameNameUser.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Migrations\\20240807034732_ConfigLenghtNameNameUser.cs",
@@ -622,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "ApplicationDbContextInitialiser.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Data\\ApplicationDbContextInitialiser.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Data\\ApplicationDbContextInitialiser.cs",
@@ -634,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "UpdateTodoList.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\TodoLists\\Commands\\UpdateTodoList\\UpdateTodoList.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\TodoLists\\Commands\\UpdateTodoList\\UpdateTodoList.cs",
@@ -647,7 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "UpdateTodoItem.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Application\\TodoItems\\Commands\\UpdateTodoItem\\UpdateTodoItem.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Application\\TodoItems\\Commands\\UpdateTodoItem\\UpdateTodoItem.cs",
@@ -660,7 +711,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "20240806100751_Add-Department-Users.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Migrations\\20240806100751_Add-Department-Users.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Migrations\\20240806100751_Add-Department-Users.cs",
@@ -672,7 +723,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -684,7 +735,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
@@ -694,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -704,7 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "Infrastructure.csproj",
               "DocumentMoniker": "E:\\F88 Project\\Learn\\Depatment\\CleanDepartmentBackEnd\\DepartmentManagetment\\DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "DepartmentManagetment\\src\\Infrastructure\\Infrastructure.csproj",

@@ -135,8 +135,11 @@ public class IdentityService : IIdentityService
                 Email = x.Email,
                 PhoneNumber = x.PhoneNumber,
                 Address = x.Adresss,
-                DepartmentId = x.DepartmentId
+                DepartmentId = x.DepartmentId,
+                
             });
+
+
 
         // Create paginated list
         var paginatedUsers = await PaginatedList<UserVM>.CreateAsync(usersQuery, query.PageNumber, query.PageSize);

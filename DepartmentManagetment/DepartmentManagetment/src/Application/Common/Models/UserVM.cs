@@ -14,5 +14,6 @@ public class UserVM
     public string? PhoneNumber { get; set; }
     public string? Address { get; set; }
     public Guid? DepartmentId { get; set; }
+    public string? Password { get; set; }
 
 }

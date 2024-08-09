@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using DepartmentManagement.Application.Common.Interfaces;
 using DepartmentManagement.Application.Common.Models;
 
-namespace DepartmentManagetment.Application.Users.Commands;
+namespace DepartmentManagetment.Application.Users.Commands.UpdateUser;
 
 public record UpdateUserCommand : IRequest
 {
@@ -31,7 +31,7 @@ public class UpdateUserCommandHandler : IRequestHandler<UpdateUserCommand>
         UserVM user = new UserVM()
         {
             DepartmentId = request.DepartmentId,
-            FullName = request.FullName, 
+            FullName = request.FullName,
             PhoneNumber = request.PhoneNumber,
             Address = request.Address,
             Id = request.Id
