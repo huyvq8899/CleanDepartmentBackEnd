@@ -2,6 +2,7 @@ using Azure.Core;
 using DepartmentManagement.Application.Common.Interfaces;
 using DepartmentManagement.Application.Common.Models;
 using DepartmentManagement.Domain.Entities;
+using DepartmentManagetment.Application.Departments.Queries.CheckUsedDepartment;
 using DepartmentManagetment.Application.Users.Queries.CheckEmailUserDuplicate;
 using DepartmentManagetment.Application.Users.Queries.GetUsersWithPagination;
 using Microsoft.AspNetCore.Authorization;
@@ -85,9 +86,10 @@ public class IdentityService : IIdentityService
     public async Task<List<UserVM>> GetUserVMs()
     {
         return await _userManager.Users.Select(x =>
-        new UserVM { 
-            Id = x.Id,  
-            UserName = x.UserName, 
+        new UserVM
+        {
+            Id = x.Id,
+            UserName = x.UserName,
             DepartmentId = x.DepartmentId,
             PhoneNumber = x.PhoneNumber,
             FullName = x.FullName,
@@ -136,7 +138,7 @@ public class IdentityService : IIdentityService
                 PhoneNumber = x.PhoneNumber,
                 Address = x.Adresss,
                 DepartmentId = x.DepartmentId,
-                
+
             });
 
 
@@ -150,5 +152,12 @@ public class IdentityService : IIdentityService
     public async Task<bool> CheckEmailUserDuplicate(CheckEmailUserDuplicateQuery query)
     {
         return await _userManager.Users.AnyAsync(x => x.UserName == query.Email);
+    }
+
+    public async Task<bool> CheckUserExistUserDepartment(CheckUsedDepartmentQuery query)
+    {
+
+        bool rs = await _userManager.Users.AnyAsync(x => x.DepartmentId == query.Id);
+        return rs;
     }
 }

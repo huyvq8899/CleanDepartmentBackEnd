@@ -1,5 +1,6 @@
 ﻿using DepartmentManagement.Application.Common.Models;
 using DepartmentManagement.Application.Departments.Queries.GetDepartmentWithPagination;
+using DepartmentManagetment.Application.Departments.Queries.CheckUsedDepartment;
 using DepartmentManagetment.Application.Users.Queries.CheckEmailUserDuplicate;
 using DepartmentManagetment.Application.Users.Queries.GetUsersWithPagination;
 
@@ -23,5 +24,6 @@ public interface IIdentityService
     Task<PaginatedList<UserVM>> GetPaginatedListUser(GetUsersWithPaginationQuery query);
 
     Task<bool> CheckEmailUserDuplicate(CheckEmailUserDuplicateQuery query);
+    Task<bool> CheckUserExistUserDepartment(CheckUsedDepartmentQuery query);
 
 }

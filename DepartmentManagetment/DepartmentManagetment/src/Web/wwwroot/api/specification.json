@@ -154,6 +154,43 @@
         ]
       }
     },
+    "/api/Departments/CheckUsedDepartment": {
+      "get": {
+        "tags": [
+          "Departments"
+        ],
+        "operationId": "CheckUsedDepartment",
+        "parameters": [
+          {
+            "name": "Id",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "guid"
+            },
+            "x-position": 1
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "boolean"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "JWT": []
+          }
+        ]
+      }
+    },
     "/api/Departments/{id}": {
       "put": {
         "tags": [

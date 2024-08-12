@@ -1,4 +1,5 @@
 ﻿using DepartmentManagement.Application.Common.Interfaces;
+using Microsoft.Extensions.Logging;
 
 namespace DepartmentManagement.Application.Departments.Commands.UpdateDepartment;
 
@@ -13,24 +14,44 @@ public record UpdateDepartmentCommand : IRequest
 public class UpdateDepartmentCommandHandler : IRequestHandler<UpdateDepartmentCommand>
 {
     private readonly IApplicationDbContext _context;
-
-    public UpdateDepartmentCommandHandler(IApplicationDbContext context)
+    private readonly ILogger<UpdateDepartmentCommand> _logger;
+    public UpdateDepartmentCommandHandler(IApplicationDbContext context, ILogger<UpdateDepartmentCommand> logger)
     {
         _context = context;
+        _logger = logger;
     }
 
     public async Task Handle(UpdateDepartmentCommand request, CancellationToken cancellationToken)
     {
-        var department = await _context.Departments
-            .FindAsync(new object[] { request.Id }, cancellationToken);
+        using (var transaction = await _context.BeginTransactionAsync(cancellationToken))
+        {
+            try
+            {
+                var department = await _context.Departments
+                    .FindAsync(new object[] { request.Id }, cancellationToken);
 
-        Guard.Against.NotFound(request.Id, department);
+                // Kiểm tra nếu phòng ban không tồn tại
+                Guard.Against.NotFound(request.Id, department);
 
-        department.Code = request.Code;
-        department.Name = request.Name;
-        department.Description = request.Description;
+                // Cập nhật thông tin phòng ban
+                department.Code = request.Code;
+                department.Name = request.Name;
+                department.Description = request.Description;
 
-        await _context.SaveChangesAsync(cancellationToken);
+                // Lưu các thay đổi
+                await _context.SaveChangesAsync(cancellationToken);
 
+                // Commit transaction nếu không có lỗi
+                await transaction.CommitAsync(cancellationToken);
+            }
+            catch (Exception ex)
+            {
+                await transaction.RollbackAsync(cancellationToken);
+
+                 _logger.LogError(ex, "An error occurred while updating the department.");
+                throw;
+            }
+        }
     }
+
 }
