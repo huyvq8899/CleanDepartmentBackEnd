@@ -9,10 +9,5 @@ public class LookupDto
 
     private class Mapping : Profile
     {
-        public Mapping()
-        {
-            CreateMap<TodoList, LookupDto>();
-            CreateMap<TodoItem, LookupDto>();
-        }
     }
 }

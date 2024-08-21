@@ -18,14 +18,14 @@ public static class DependencyInjection
 
         Guard.Against.Null(connectionString, message: "Connection string 'DefaultConnection' not found.");
 
-        services.AddScoped<ISaveChangesInterceptor, AuditableEntityInterceptor>();
-        services.AddScoped<ISaveChangesInterceptor, DispatchDomainEventsInterceptor>();
+        services.AddScoped<ISaveChangesInterceptor, AuditableEntityInterceptor>(); /// Dang ky service vao DI container
+        services.AddScoped<ISaveChangesInterceptor, DispatchDomainEventsInterceptor>(); /// Dang ky service vao DI container
 
         services.AddDbContext<ApplicationDbContext>((sp, options) =>
         {
             options.AddInterceptors(sp.GetServices<ISaveChangesInterceptor>());
 
-            // Sử dụng UseMySql thay vì UseSqlServer
+            // Config my sql 
             options.UseMySql(connectionString, new MySqlServerVersion(new Version(8, 0, 25)));
         });
 
@@ -45,6 +45,7 @@ public static class DependencyInjection
             .AddApiEndpoints();
 
         services.AddSingleton(TimeProvider.System);
+
         services.AddTransient<IIdentityService, IdentityService>();
 
         services.AddAuthorization(options =>

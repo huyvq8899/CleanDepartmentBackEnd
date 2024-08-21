@@ -11,3 +11,4 @@ public class Department : BaseAuditableEntity
     /// </summary>
     public string Description { get; set; } = string.Empty;
 }
+

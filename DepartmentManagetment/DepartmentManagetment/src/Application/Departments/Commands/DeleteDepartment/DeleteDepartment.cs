@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using DepartmentManagement.Application.Common.Interfaces;
-using DepartmentManagement.Domain.Events;
 using Microsoft.EntityFrameworkCore;
 
 namespace DepartmentManagement.Application.Departments.Commands.DeleteDepartment;

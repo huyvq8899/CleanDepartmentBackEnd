@@ -14,7 +14,8 @@ public class Users : EndpointGroupBase
 {
     public override void Map(WebApplication app)
     {
-        app.MapGroup(this)
+        app.MapGroup(this) 
+
             .MapGet(GetUserVMs).MapPut(UpdateUser, "/{id}")
             .MapGet(GetUsersWithPagination, "GetUsersWithPagination")
             .MapGet(CheckEmailUserDuplicate, "CheckEmailUserDuplicate")

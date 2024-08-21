@@ -1,4 +1,4 @@
-using DepartmentManagement.Infrastructure.Data;
+﻿using DepartmentManagement.Infrastructure.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -30,6 +30,7 @@ if (app.Environment.IsDevelopment())
 else
 {
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+    /// Cơ chế bảo mật HSTS để đảm bảo các kết nối chỉ qua HTTPS, giúp bảo vệ ứng dụng khỏi các cuộc tấn công kiểu MITM
     app.UseHsts();
 }
 
@@ -46,16 +47,10 @@ app.UseSwaggerUi(settings =>
     settings.DocumentPath = "/api/specification.json";
 });
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller}/{action=Index}/{id?}");
-
-app.MapRazorPages();
-
-app.MapFallbackToFile("index.html");
 
 app.UseExceptionHandler(options => { });
 
+/// Định nghĩa route cho URL gốc /.
 app.Map("/", () => Results.Redirect("/api"));
 
 app.MapEndpoints();

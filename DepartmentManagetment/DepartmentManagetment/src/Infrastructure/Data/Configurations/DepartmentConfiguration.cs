@@ -14,6 +14,5 @@ public class DepartmentConfiguration : IEntityTypeConfiguration<Department>
         builder.Property(x => x.Name).IsRequired().HasMaxLength(250);
 
         builder.Property(x => x.Description).HasMaxLength(250);
-
     }
 }

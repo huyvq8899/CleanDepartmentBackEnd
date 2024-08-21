@@ -24,4 +24,6 @@ public class GetDepartmentListQueryHandler : IRequestHandler<GetDepartmentListQu
         return await _context.Departments.AsNoTracking().ProjectTo<DepartmentVM>(_mapper.ConfigurationProvider).
             OrderByDescending(x => x.CreatedDate).ToListAsync(cancellationToken);
     }
+
+
 }

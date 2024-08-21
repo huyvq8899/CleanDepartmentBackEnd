@@ -15,7 +15,7 @@ public static class DependencyInjection
         services.AddDatabaseDeveloperPageExceptionFilter();
 
         services.AddScoped<IUser, CurrentUser>();
-
+        /// Có thể truy cập để lấy thông tin về HTTP Request của hiện tại
         services.AddHttpContextAccessor();
 
         services.AddHealthChecks()
@@ -23,12 +23,13 @@ public static class DependencyInjection
 
         services.AddExceptionHandler<CustomExceptionHandler>();
 
-        services.AddRazorPages();
 
         // Customise default API behaviour
+        // Trả về 400 nếu model k hợp lệ
         services.Configure<ApiBehaviorOptions>(options =>
             options.SuppressModelStateInvalidFilter = true);
 
+        /// Bổ sung cấu hình cho các endpoint đc tìm thấy
         services.AddEndpointsApiExplorer();
 
         services.AddOpenApiDocument((configure, sp) =>

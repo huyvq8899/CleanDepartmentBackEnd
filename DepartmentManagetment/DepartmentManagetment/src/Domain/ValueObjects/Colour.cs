@@ -8,7 +8,7 @@ public class Colour(string code) : ValueObject
 
         if (!SupportedColours.Contains(colour))
         {
-            throw new UnsupportedColourException(code);
+            //throw new UnsupportedColourException(code);
         }
 
         return colour;
